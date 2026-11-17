@@ -29,8 +29,8 @@ Our core message, from the Golden Circle:
 ## 👥 Team Members
 
 - Jana Elsalhy
-- Marina
-- Yusuf
+- Mairna
+- Yousef
 - Ganna
 - Adam
 
@@ -101,7 +101,7 @@ These are our own estimates for a new app. We'd adjust them once real launch dat
 
 ## 👨‍🏫 Instructor
 
-**Yusuf**, DEPI Digital Marketing track
+**Youssef Abdelsabour**, DEPI Digital Marketing track
 
 ---
 
