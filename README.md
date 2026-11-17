@@ -29,7 +29,7 @@ Our core message, from the Golden Circle:
 ## 👥 Team Members
 
 - Jana Elsalhy
-- Mairna
+- Mirna
 - Yousef
 - Ganna
 - Adam
