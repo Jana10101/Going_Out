@@ -119,7 +119,7 @@ These are our own estimates for a new app. We'd adjust them once real launch dat
 
 **Content calendar:**
 
-- [Teaser Content Calendar (Notion)](https://app.notion.com/p/4164e10008e881ca82faff6179ce2add)
+- [Content Calendar (Notion)](https://app.notion.com/p/Lightened-Content-Calendar-4184e10008e8819f913afac3a9e3eda7): the 3-week pre-launch teaser we're following, 3 posts a week
 
 ---
 
